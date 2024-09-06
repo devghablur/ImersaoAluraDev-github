@@ -16,4 +16,10 @@ let dados = [
         descricao : "Filo é uma filolial, uma raça de seres alados com aparência de pássaro. Ela se junta ao grupo de Naofumi e se torna uma poderosa aliada.",
         link : "https://shield-hero.fandom.com/wiki/Filo"
     }
+    ,
+    {
+        titulo: "Melty Q Melromarc",
+        descricao: "Melty Q Melromarc é uma princesa do reino de Melromarc e uma das personagens principais da série Tate no Yuusha no Nariagari. Inicialmente preconceituosa com Naofumi, ela desenvolve um profundo respeito e admiração por ele ao longo da série.",
+        link: "https://shield-hero.fandom.com/wiki/Melty_Q_Melromarc" 
+    }
 ];
